@@ -142,8 +142,8 @@ def test_get_latest_med_ndc():
     
 # these are examples of my tests
     
-# fizzbuzz()
-# test_Convert_to_float(3)
-# test_get_antihtn_meds()
-# test_get_tablet_meds()
-# test_get_latest_med_ndc()
+fizzbuzz()
+test_Convert_to_float(3)
+test_get_antihtn_meds()
+test_get_tablet_meds()
+test_get_latest_med_ndc()
